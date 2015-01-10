@@ -31,12 +31,25 @@ Game Dev
 
 Hardware
 ----------
+- [Arduino](https://www.reddit.com/r/MHacksArduino/)
+- [Parrot Drone](https://www.reddit.com/r/MHacksParrotDrone/)
+- [Raspberry Pi](https://www.reddit.com/r/MHacksRPi/)
 
 Mobile
 ----------
+- [Android](https://www.reddit.com/r/MHacksAndroid/)
+- [iOS](https://www.reddit.com/r/MHacksiOS/)
+- [Windows](https://www.reddit.com/r/MHacksWindows/)
 
 VR
 ----------
+- [Occulus Rift](https://www.reddit.com/r/MHacksOR/)
 
 Web Dev
 ----------
+- [HTML+CSS](https://www.reddit.com/r/MHacksHTMLCSS/)
+- [Javascript](https://www.reddit.com/r/MHacksJavascript/)
+- [Node.js](https://www.reddit.com/r/MHacksNode/)
+- [PHP](https://www.reddit.com/r/MHacksPHP/)
+- [Ruby on Rails](https://www.reddit.com/r/MHacksRuby/)
+- [Web Databases](https://www.reddit.com/r/MHacksWebDB/)
