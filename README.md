@@ -4,12 +4,12 @@ Resources by the community for all sorts of development and hacking
 
 ## Table of Contents
 - [APIs](#apis)
-- Design
-- Game Dev
-- Hardware
-- Mobile
-- VR
-- Web Dev
+- [Design](#design)
+- [Game Dev](#game-dev)
+- [Hardware](#hardware)
+- [Mobile](#mobile)
+- [VR](#vr)
+- [Web Dev](#web-dev)
 
 APIs
 ---------
