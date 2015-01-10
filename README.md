@@ -3,7 +3,7 @@ MHacks-Resources
 Resources by the community for all sorts of development and hacking
 
 ## Table of Contents
-- APIs
+- [APIs](#apis)
 - Design
 - Game Dev
 - Hardware
@@ -30,4 +30,13 @@ Game Dev
 - [Game Dev](https://www.reddit.com/r/MHacksGameDev/) [including game engines, 3D modeling, audio collections, and more]
 
 Hardware
+----------
+
+Mobile
+----------
+
+VR
+----------
+
+Web Dev
 ----------
