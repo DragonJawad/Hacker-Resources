@@ -1,3 +1,5 @@
+NOTE: I don't remember this repo whatsoever (it was a private repo until recently), and I take absolutely no credit for much of this- I'm assuming this is a dump of community resources from another source, but it all lacks contributors and/or contribution sources.
+
 Resources by the community for all sorts of development and hacking
 
 ## Table of Contents
